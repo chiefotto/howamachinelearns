@@ -2,6 +2,6 @@ matplotlib
 pandas
 numpy
 seaborn
-sklearn
+scikit-learn
 nba_api
 streamlit
