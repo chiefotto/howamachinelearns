@@ -1,6 +1,8 @@
 from matplotlib import pyplot as plt
+from sklearn.decomposition import PCA
 from sklearn.discriminant_analysis import StandardScaler
 from sklearn.metrics import silhouette_score
+import seaborn as sns
 import streamlit as st
 import pandas as pd 
 import numpy as np 
@@ -47,18 +49,71 @@ def elbow_method(df):
     ax.set_title("Optimal K Using Silhouette Score")
     return fig
 
-st.title("Grab the last 25 NBA Games data and find the optimal K")
+
+def kmeans_cal(df,n):
+    kmeans = KMeans(n_clusters=n, random_state=42, n_init=10)
+    df['Cluster'] = kmeans.fit_predict(df.drop(columns = ['TEAM_NAME']))
+    return df
+
+
+def pca_calc(df):
+    pca = PCA(n_components=3)
+    df_scaled_pca = pca.fit_transform((kmeans_cal(df, 6)).drop(columns=['TEAM_NAME','Cluster']))
+    return df_scaled_pca
+    
+def plot_clusters (df):
+    computed_clusters = pca_calc(df)
+    plt.figure(figsize=(8,6))
+    sns.scatterplot(data=computed_clusters, x='PC1', y='PC2', hue='Cluster', palette='viridis', s=100)
+    plt.title("NBA Team Clusters (Last 25 Games, k=6)")
+    plt.xlabel("Principal Component 1")
+    plt.ylabel("Principal Component 2")
+    for i, row in computed_clusters.iterrows():
+        plt.text(row['PC1'], row['PC2'], row['TEAM_NAME'], fontsize=8, ha='left')
+    plt.show()
+    
+    
+def view_clusters (scaled_df):
+    df = kmeans_cal(scaled_df,6)
+    sorted_df = df[['TEAM_NAME','Cluster']].sort_values(by='Cluster', ascending = True)
+    sorted_df
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+raw_df = fetch_nba_last_25()
+processed_df = preprocess_data(raw_df)
+
+st.title("NBA Cluster Tool -- Jokr")
+
+st.subheader("When using this tool, calculate clusters to or skip, then input")
 
 if st.button("Fetch and Display Optimal K graph"):
         with st.spinner("Fetching..."):
-            raw_df = fetch_nba_last_25()
-            processed_df = preprocess_data(raw_df)
+            
             optimal_k = elbow_method(processed_df)
             st.pyplot(optimal_k)
 
 
+st.subheader("once the graphs done generating insert cluster amount and run")
+
+st.button("generate and view clusters", on_click=view_clusters(processed_df))
 
 
+
+
+options = st.multiselect("choose clsuters",["cluster 0", "cluster 1", "cluster 2", "cluster 3", "cluster 4", "cluster 5"])
+
+
+player  = st.text_input("insert players")
     
         
 
