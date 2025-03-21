@@ -88,7 +88,7 @@ def view_clusters(scaled_df):
     # Generate dynamic team mappings
     cluster_team_ids = generate_cluster_team_ids(sorted_df) 
 
-    # Store globally so it's available for later API requests
+    # Ensure it's saved correctly in session state
     st.session_state["cluster_team_ids"] = cluster_team_ids  
 
     # Display sorted cluster list
@@ -230,17 +230,22 @@ if st.button("Fetch Player vs Cluster Data"):
         if "cluster_team_ids" in st.session_state:
             cluster_teams_dict = st.session_state["cluster_team_ids"]
 
-            # Filter only selected clusters
-            selected_cluster_teams = {cluster: cluster_teams_dict[cluster] for cluster in options if cluster in cluster_teams_dict}
+            # 🚀 Ensure selected clusters exist before using them
+            selected_cluster_teams = {
+                cluster: cluster_teams_dict.get(cluster, []) for cluster in options
+            }
 
-            fetch_players_vs_cluster(player_ids, selected_cluster_teams)
+            # Only proceed if selected clusters contain valid team IDs
+            if any(selected_cluster_teams.values()):
+                fetch_players_vs_cluster(player_ids, selected_cluster_teams)
+            else:
+                st.write("⚠️ No valid team IDs found for selected clusters.")
 
         else:
             st.write("⚠️ Please generate clusters first before fetching player data.")
     else:
         st.write("⚠️ Please enter player names and select at least one cluster.")
 
-        
 
 
 
