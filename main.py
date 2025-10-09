@@ -169,6 +169,9 @@ def fetch_players_vs_cluster(player_ids, opponent_team_ids, season="2024-25", ra
                     player_id_nullable=player_id,
                     opp_team_id_nullable=opponent_id
                 ).get_data_frames()[0]
+                
+
+                
 
                 if logs.empty:
                     continue
@@ -331,6 +334,10 @@ player_input = st.text_input("Enter Player Names (comma-separated & case-sensiti
 # Step 5: Fetch and show player data
 if st.button("📊 Fetch Player vs Cluster Stats"):
     if player_input and selected_clusters:
+        st.write("Selected Clusters:", selected_clusters)
+        st.write("cluster_team_ids from state:", st.session_state.get("cluster_team_ids", {}))
+        st.write("Flat Opponent Team IDs:", flat_team_ids)
+
         player_ids = get_player_ids_from_input(player_input)
         fetch_players_vs_cluster(player_ids, flat_team_ids)
     else:
