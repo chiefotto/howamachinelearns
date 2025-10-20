@@ -1,0 +1,15 @@
+season,week,home_team,away_team,home_off_cluster_name,home_def_cluster_name,away_off_cluster_name,away_def_cluster_name,pred_total,pred_total
+2025,7,ARI,GB,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,Run-Heavy Efficient Explosive,Average,48.19957468487964,48.19957468487964
+2025,7,CHI,NO,Run-Heavy Efficient Explosive,Average,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,46.47126376003564,46.47126376003564
+2025,7,CLE,MIA,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run,44.512395330657746,44.512395330657746
+2025,7,DAL,WAS,Balanced,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,48.23335533332662,48.23335533332662
+2025,7,DEN,NYG,Balanced,Stingy Strong Pass Red-Zone Tough,Balanced Efficient Explosive,Average,47.36215453339828,47.36215453339828
+2025,7,DET,TB,Balanced,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Average,50.540181179993525,50.540181179993525
+2025,7,JAX,LA,Balanced Inefficient,Average,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,46.93298910719574,46.93298910719574
+2025,7,KC,LV,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Soft Run,Balanced,Stingy Ball-Hawking Red-Zone Tough,47.779458891203035,47.779458891203035
+2025,7,LAC,IND,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Efficient Explosive,Average,43.16610192705419,43.16610192705419
+2025,7,MIN,PHI,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run,45.02841881147546,45.02841881147546
+2025,7,NYJ,CAR,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Run-Heavy Efficient Explosive,Average,49.72919699976976,49.72919699976976
+2025,7,SEA,HOU,Balanced Efficient Explosive,Average,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,45.929642085278694,45.929642085278694
+2025,7,SF,ATL,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky,Balanced,Stingy Ball-Hawking Red-Zone Tough,49.71564495176538,49.71564495176538
+2025,7,TEN,NE,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced Efficient Explosive,Average,43.372744285693145,43.372744285693145

@@ -1,0 +1,90 @@
+season,week,home_team,away_team,combined_pts,pred_total,error,abs_error,home_off_cluster_name,home_def_cluster_name,away_off_cluster_name,away_def_cluster_name
+2025,1,UNK,UNK,43.0,55.07324709403498,12.073247094034983,12.073247094034983,Balanced,Average,Balanced Efficient Explosive,Average
+2025,1,UNK,UNK,81.0,43.25723151475533,-37.74276848524467,37.74276848524467,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Average
+2025,1,UNK,UNK,51.0,42.63433381149349,-8.36566618850651,8.36566618850651,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough
+2025,1,UNK,UNK,33.0,43.581205786986686,10.581205786986686,10.581205786986686,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough
+2025,1,UNK,UNK,32.0,40.875519285299895,8.875519285299895,8.875519285299895,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Stingy Ball-Hawking Red-Zone Tough
+2025,1,UNK,UNK,40.0,37.01274386861085,-2.9872561313891524,2.9872561313891524,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Average
+2025,1,UNK,UNK,41.0,48.52116189046098,7.521161890460981,7.521161890460981,Run-Heavy Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,1,UNK,UNK,36.0,47.59639382648748,11.596393826487478,11.596393826487478,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,1,UNK,UNK,23.0,37.94288474834817,14.94288474834817,14.94288474834817,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Average
+2025,1,UNK,UNK,33.0,49.42189675389797,16.42189675389797,16.42189675389797,Balanced Inefficient,Leaky Big-Play Risk Red-Zone Leaky,Balanced Efficient Explosive,Average
+2025,1,UNK,UNK,33.0,40.28622661992762,7.286226619927618,7.286226619927618,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced,Stingy Strong Pass Red-Zone Tough
+2025,1,UNK,UNK,66.0,48.36576966025084,-17.63423033974916,17.63423033974916,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Soft Run
+2025,1,UNK,UNK,44.0,51.650320678423924,7.650320678423924,7.650320678423924,Balanced,Average,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough
+2025,1,UNK,UNK,30.0,41.590176747200196,11.590176747200196,11.590176747200196,Balanced Inefficient,Average,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough
+2025,1,UNK,UNK,27.0,45.712340593581054,18.712340593581054,18.712340593581054,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,2,UNK,UNK,49.0,49.08755122220645,0.08755122220645006,0.08755122220645006,Balanced,Average,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,2,UNK,UNK,58.0,48.19274932361714,-9.807250676382857,9.807250676382857,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Average
+2025,2,UNK,UNK,58.0,37.24520360440701,-20.75479639559299,20.75479639559299,Balanced Inefficient Risky,Average,Balanced Inefficient Risky,Average
+2025,2,UNK,UNK,77.0,37.50304095482978,-39.49695904517022,39.49695904517022,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Balanced Efficient Explosive,Average
+2025,2,UNK,UNK,73.0,48.84967676718423,-24.150323232815772,24.150323232815772,Run-Heavy Efficient Explosive,Average,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky
+2025,2,UNK,UNK,45.0,38.38837997065862,-6.611620029341381,6.611620029341381,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Red-Zone Leaky
+2025,2,UNK,UNK,39.0,45.31067307399389,6.31067307399389,6.31067307399389,Balanced,Average,Balanced Efficient Explosive,Average
+2025,2,UNK,UNK,57.0,42.54711789440572,-14.452882105594277,14.452882105594277,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,Balanced,Leaky Big-Play Risk Soft Run
+2025,2,UNK,UNK,37.0,37.18870663719486,0.18870663719486203,0.18870663719486203,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Stingy Ball-Hawking Red-Zone Tough
+2025,2,UNK,UNK,29.0,54.79804923465289,25.798049234652893,25.798049234652893,Balanced Inefficient,Average,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough
+2025,2,UNK,UNK,60.0,52.37348263893506,-7.626517361064941,7.626517361064941,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,2,UNK,UNK,28.0,36.68350902422572,8.683509024225721,8.683509024225721,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced,Stingy Ball-Hawking Red-Zone Tough
+2025,2,UNK,UNK,47.0,38.2350976775911,-8.7649023224089,8.7649023224089,Balanced,Average,Balanced,Stingy Strong Pass Red-Zone Tough
+2025,2,UNK,UNK,40.0,42.744811391549916,2.7448113915499164,2.7448113915499164,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Balanced,Stingy Strong Pass Red-Zone Tough
+2025,2,UNK,UNK,48.0,46.295888534518106,-1.704111465481894,1.704111465481894,Balanced Inefficient,Average,Balanced Inefficient Risky,Stingy Ball-Hawking Red-Zone Tough
+2025,2,UNK,UNK,52.0,40.22847110288754,-11.77152889711246,11.77152889711246,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough
+2025,3,UNK,UNK,68.0,64.04300082128483,-3.956999178715165,3.956999178715165,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,3,UNK,UNK,52.0,54.70018574010069,2.700185740100693,2.700185740100693,Run-Heavy Efficient Explosive,Average,Balanced,Leaky Big-Play Risk Soft Run
+2025,3,UNK,UNK,30.0,42.793351520704455,12.793351520704455,12.793351520704455,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough
+2025,3,UNK,UNK,45.0,49.608756523800736,4.608756523800736,4.608756523800736,Run-Heavy Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky
+2025,3,UNK,UNK,23.0,32.22072006558648,9.220720065586477,9.220720065586477,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough,Balanced,Stingy Ball-Hawking Red-Zone Tough
+2025,3,UNK,UNK,27.0,33.5980070039989,6.598007003998902,6.598007003998902,Balanced Inefficient,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Stingy Ball-Hawking Red-Zone Tough
+2025,3,UNK,UNK,43.0,58.50902536316108,15.50902536316108,15.50902536316108,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Average
+2025,3,UNK,UNK,58.0,47.28397370524379,-10.716026294756212,10.716026294756212,Run-Heavy Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,3,UNK,UNK,35.0,33.57745686391802,-1.422543136081977,1.422543136081977,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced,Stingy Strong Pass Red-Zone Tough
+2025,3,UNK,UNK,31.0,46.572699609527206,15.572699609527206,15.572699609527206,Balanced Inefficient,Average,Balanced,Stingy Ball-Hawking Red-Zone Tough
+2025,3,UNK,UNK,59.0,38.82548158423677,-20.17451841576323,20.17451841576323,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced,Average
+2025,3,UNK,UNK,57.0,48.27646858326296,-8.723531416737039,8.723531416737039,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Red-Zone Leaky
+2025,3,UNK,UNK,31.0,45.88854240111557,14.888542401115572,14.888542401115572,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced,Average
+2025,3,UNK,UNK,56.0,42.302341968915975,-13.697658031084025,13.697658031084025,Balanced,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,3,UNK,UNK,61.0,34.20032030509092,-26.79967969490908,26.79967969490908,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough
+2025,3,UNK,UNK,65.0,49.16743822910012,-15.83256177089988,15.83256177089988,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run
+2025,4,UNK,UNK,43.0,46.754991542964,3.7549915429639995,3.7549915429639995,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough
+2025,4,UNK,UNK,61.0,60.937576386676945,-0.06242361332305535,0.06242361332305535,Run-Heavy Efficient Explosive,Average,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,4,UNK,UNK,50.0,54.447116699782065,4.447116699782065,4.447116699782065,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Red-Zone Leaky
+2025,4,UNK,UNK,80.0,59.75036462839087,-20.24963537160913,20.24963537160913,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,4,UNK,UNK,31.0,46.49152078641151,15.491520786411513,15.491520786411513,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,4,UNK,UNK,44.0,42.496135026374866,-1.5038649736251344,1.5038649736251344,Balanced Inefficient Risky,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Average
+2025,4,UNK,UNK,26.0,53.97051766948941,27.97051766948941,27.97051766948941,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,4,UNK,UNK,57.0,60.23942347397948,3.2394234739794783,3.2394234739794783,Run-Heavy Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,4,UNK,UNK,47.0,58.58154874219426,11.581548742194258,11.581548742194258,Balanced Efficient Explosive,Average,Balanced Inefficient Risky,Average
+2025,4,UNK,UNK,49.0,37.01974137618311,-11.980258623816887,11.980258623816887,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Stingy Ball-Hawking Red-Zone Tough
+2025,4,UNK,UNK,48.0,43.56688614480073,-4.433113855199267,4.433113855199267,Balanced,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run
+2025,4,UNK,UNK,55.0,43.77548463528865,-11.224515364711351,11.224515364711351,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough,Balanced,Leaky Big-Play Risk Red-Zone Leaky
+2025,4,UNK,UNK,39.0,37.84251350009689,-1.1574864999031078,1.1574864999031078,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough
+2025,4,UNK,UNK,47.0,35.73362744289828,-11.266372557101718,11.266372557101718,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough,Balanced,Average
+2025,4,UNK,UNK,56.0,37.81124666253088,-18.188753337469123,18.188753337469123,Balanced,Stingy Strong Pass Red-Zone Tough,Balanced,Stingy Ball-Hawking Red-Zone Tough
+2025,5,UNK,UNK,43.0,38.751853290312354,-4.248146709687646,4.248146709687646,Balanced,Average,Balanced Inefficient Risky,Stingy Strong Pass Red-Zone Tough
+2025,5,UNK,UNK,54.0,50.41740930920038,-3.58259069079962,3.58259069079962,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough
+2025,5,UNK,UNK,43.0,53.7753154150869,10.7753154150869,10.7753154150869,Balanced Efficient Explosive,Average,Balanced Efficient Explosive,Average
+2025,5,UNK,UNK,51.0,30.221161519232307,-20.778838480767693,20.778838480767693,Balanced Efficient Explosive,Average,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run
+2025,5,UNK,UNK,61.0,47.464718373396714,-13.535281626603286,13.535281626603286,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough
+2025,5,UNK,UNK,46.0,48.380652376785555,2.380652376785555,2.380652376785555,Balanced Efficient Explosive,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Average
+2025,5,UNK,UNK,59.0,50.478209527698134,-8.521790472301866,8.521790472301866,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run,Balanced Efficient Explosive,Average
+2025,5,UNK,UNK,49.0,53.3353001821029,4.335300182102898,4.335300182102898,Balanced Efficient Explosive,Average,Balanced,Average
+2025,5,UNK,UNK,37.0,43.287641370013574,6.287641370013574,6.287641370013574,Balanced Inefficient,Leaky Big-Play Risk Soft Run,Run-Heavy Efficient Explosive,Stingy Strong Pass Red-Zone Tough
+2025,5,UNK,UNK,40.0,41.18326198056683,1.183261980566833,1.183261980566833,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient Risky,Average
+2025,5,UNK,UNK,59.0,61.188831009362445,2.1888310093624455,2.1888310093624455,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Average
+2025,5,UNK,UNK,38.0,48.87587022807502,10.875870228075023,10.875870228075023,Balanced Efficient Explosive,Average,Balanced,Average
+2025,5,UNK,UNK,73.0,59.24983409413798,-13.75016590586202,13.75016590586202,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky
+2025,6,UNK,UNK,38.0,44.54979256609097,6.5497925660909715,6.5497925660909715,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,20.0,39.472803012615174,19.472803012615174,19.472803012615174,Balanced Inefficient,Average,Balanced Efficient Explosive,Stingy Strong Pass Red-Zone Tough
+2025,6,UNK,UNK,57.0,53.364651969238395,-3.6353480307616053,3.6353480307616053,Run-Heavy Efficient Explosive,Average,Balanced,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,45.0,58.06720916679161,13.067209166791613,13.067209166791613,Run-Heavy Efficient Explosive,Average,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,58.0,45.28821725651005,-12.711782743489948,12.711782743489948,Balanced Efficient Explosive,Average,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,32.0,38.861157529895095,6.861157529895095,6.861157529895095,Balanced Inefficient,Average,Balanced Efficient Explosive,Average
+2025,6,UNK,UNK,47.0,58.562500796790026,11.562500796790026,11.562500796790026,Run-Heavy Efficient Explosive,Leaky Big-Play Risk Soft Run,Balanced,Leaky Big-Play Risk Red-Zone Leaky
+2025,6,UNK,UNK,30.0,39.458785958096115,9.458785958096115,9.458785958096115,Balanced,Stingy Ball-Hawking Red-Zone Tough,Balanced Inefficient,Stingy Strong Pass Red-Zone Tough
+2025,6,UNK,UNK,56.0,51.22389218564642,-4.77610781435358,4.77610781435358,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run,Balanced,Stingy Ball-Hawking Red-Zone Tough
+2025,6,UNK,UNK,44.0,53.514812385398336,9.514812385398336,9.514812385398336,Balanced Efficient Explosive,Leaky Big-Play Risk Red-Zone Leaky,Balanced Efficient Explosive,Average
+2025,6,UNK,UNK,51.0,46.64358465862559,-4.356415341374408,4.356415341374408,Balanced Efficient Explosive,Average,Balanced Inefficient Risky,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,32.0,35.50078153055046,3.500781530550462,3.500781530550462,Balanced,Stingy Strong Pass Red-Zone Tough,Balanced Inefficient,Leaky Big-Play Risk Soft Run
+2025,6,UNK,UNK,49.0,59.786459549738126,10.786459549738126,10.786459549738126,Run-Heavy Efficient Explosive,Average,Balanced Inefficient Risky,Leaky Big-Play Risk Red-Zone Leaky
+2025,6,UNK,UNK,49.0,56.07270249191322,7.072702491913219,7.072702491913219,Balanced Efficient Explosive,Leaky Big-Play Risk Soft Run,Run-Heavy Efficient Explosive,Average
